@@ -16,7 +16,7 @@ so `activate_profile.py` simply resets these env variables.
 Run the script:
 
 ```
-python activate_profile.py --profile <PROFILE>
+python activate_profile.py <PROFILE NAME>
 ```
 if it works, you'll be prompted to reactivate your .zshrc:
 ```
